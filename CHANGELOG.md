@@ -3,7 +3,11 @@
 All notable changes to this project will be documented in this file.
 We follow [Semantic Versioning](http://semver.org/).
 
-## 2.0.4: Oct 31st, 2017
+## 2.0.5: Apr 18th, 2019
+
+* Gives the HelpScout beacon modal a higher Z-index to make sure the WordPress admin bar does not overlap it on smaller screens.
+
+## 2.0.4: Oct 31st, 2018
 
 * Wraps php_uname call in a function_exists to prevent errors on certain server configurations.
 
